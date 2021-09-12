@@ -5,7 +5,7 @@ bool f(double x)
 {
 	return x >= 50.2323435345;
 }
-
+////////////////////
 int main()
 {
 	double a = 0;
