@@ -9,7 +9,6 @@ bool f(double x)
 int main()
 {
 	double a = 0;
-	double c = 1;
 	double b = 100000;
 	double last = 0;
 	while (true)
